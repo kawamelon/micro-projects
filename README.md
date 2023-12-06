@@ -1,2 +1,2 @@
 # micro-projects
-A collection of micro-programs for basic programming learnings
+A collection of micro-programs for basic programming learning
